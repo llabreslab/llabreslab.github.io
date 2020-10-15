@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Salomé Llabrés is a Juan de la Cierva Researcher at the Department of Nutrition, Food sciences and Gastronomy of the University of Barcelona. She has recently joined the group of Computational Biology and Gastronomy Group at the University of Barcelona. 
+I'm a Juan de la Cierva Researcher at the Department of Nutrition, Food sciences and Gastronomy of the University of Barcelona.
 
-She is a computational chemist with 8 years of experience working on the study of biomolecular systems and computer aided drug design projects. Her expertise focuses on the use of molecular modelling methods to model challenging biological systems including large membrane proteins and the use of molecular dynamics simulations and enhanced sampling techniques (including Steered MD, Metadynamics, Umbrella Sampling…) to characterise protein dynamics and to obtain energy profiles of biological processes. She is used to working as part of multidisciplinary teams (including experimental collaborations and research software engineers) in order to reach a common goal. Altogether, her work during this time has led to 13 publications and a preprint (h-index = 7).
+I'm a computational chemist with 9 years of experience working on the study of biomolecular systems and computer aided drug design projects. My expertise focuses on the use of molecular modelling methods to model challenging biological systems including large membrane proteins and the use of molecular dynamics simulations and enhanced sampling techniques (including Steered MD, Metadynamics and Umbrella Sampling) to characterise protein dynamics and to obtain energy profiles of biological processes. I thrive working as part of multidisciplinary teams (including experimental collaborations and research software engineers) in order to reach a common goal. 
 
 
 My work and research
