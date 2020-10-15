@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Salomé Llabrés Prat"
 title_separator          : "-"
 name                     : &name "Salomé Llabrés Prat"
-description              : &description "personal description"
+description              : &description "Computational Chemist"
 url                      : https://salomellabres.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "salomellabres/salomellabres.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Salomé Llabrés Prat"
   avatar           : "slp.png"
-  bio              : "Juan de la Cierva Researcher at the the [CBCG group](http://www.ub.edu/cbcg/index.php) at University of Barcelona."
+  bio              : "Juan de la Cierva Researcher at the <a style='color: black;' href='http://www.ub.edu/cbcg/index.php'>CBCG group</a> and <a style='color: black;' href='http://www.ub.edu/cbdd'>CBDD group</a> at University of Barcelona."
   location         : "Barcelona, Spain"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LaBn90YAAAAJ&hl=ca"
