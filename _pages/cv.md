@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-------
 * **PhD in Biotechnology**, Universitat de Barcelona (Spain), 2015 
 * **M.Sc. in Biotechnology**, Universitat de Barcelona (Spain), 2010-2011
 * **Degree (B.Sc. + M.Sc.) in Pharmacy**, Universitat de Barcelona (Spain), 2005-2010
 
 
 Research and Work experience
-====== 
+------- 
 
 * **Mar 2019 - Jul 2020:** Applications developer in Data Science
   * EPCC, University of Edinburgh (UK)
@@ -50,23 +50,21 @@ Research and Work experience
   
 
 Publications
-======
+-------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+-------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+-------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
