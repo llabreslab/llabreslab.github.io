@@ -6,7 +6,7 @@ excerpt: 'The alpha4beta2 nicotinic acetylcholine receptor (nAChR) is a molecula
 date: 2014-06-23
 venue: 'European Journal of Medicinal Chemistry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0223523414003651'
-citation: 'Llabrés S., García-Ratés S., Cristóbal-Lecina E., Riera A., Borrell JI., Camarasa J., Pubill D., Luque FJ., Escubedo E. (2014) Chemistry: European Journal. 2013, 40, 13555-13361'
+citation: 'Llabrés S., García-Ratés S., Cristóbal-Lecina E., Riera A., Borrell JI., Camarasa J., Pubill D., Luque FJ., Escubedo E. (2014) European Journal of Medicinal Chemistry, 81, 35-46'
 ---
 
 # Molecular basis of the selective binding of MDMA enantiomers to the alpha4beta2 nicotinic receptor subtype: Synthesis, pharmacological evaluation and mechanistic studies
@@ -17,4 +17,4 @@ The α4β2 nicotinic acetylcholine receptor (nAChR) is a molecular target of 3,4
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0223523414003651)
 
-**Recommended citation:** Llabrés S., García-Ratés S., Cristóbal-Lecina E., Riera A., Borrell JI., Camarasa J., Pubill D., Luque FJ., Escubedo E. (2014). Chemistry: European Journal. 2013, 40, 13555-13361.
+**Recommended citation:** Llabrés S., García-Ratés S., Cristóbal-Lecina E., Riera A., Borrell JI., Camarasa J., Pubill D., Luque FJ., Escubedo E. (2014). European Journal of Medicinal Chemistry. 81, 35-46.
