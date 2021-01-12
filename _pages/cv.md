@@ -22,8 +22,8 @@ Research and Work experience
 * **Mar 2019 - Jul 2020: Applications developer in Data Science**
   * EPCC, University of Edinburgh (UK)
   * Part of the EPCC working team of BioExcel-2 project:
-      Provided user support to CP2K users to perform QM/MM simulations of biomolecular systems. 
-      Co-developed several tools, documentation and tutorials for QM/MM simulations in CP2K. 
+      - Provided user support to CP2K users to perform QM/MM simulations of biomolecular systems. 
+      - Co-developed several tools, documentation and tutorials for QM/MM simulations in CP2K. 
   * Part of ARCHER Helpdesk support team. 
 
 * **Jan 2018 - Dec 2018: PostDoctoral Research Assistant**
@@ -35,8 +35,8 @@ Research and Work experience
   * School of Life Sciences, University of Dundee (UK)
   * **Supervisor:** Dr Ulrich Zachariae
   * Antimicrobial resistance of Gram-negative bacteria:
-      Proposed a novel mechanism by which a newly discovered family of efflux pumps confers antimicrobial resistance in Gram-negative bacteria. 
-      Studied the effect of mutations of porins that alter the permeability of antibiotic molecules.
+      - Proposed a novel mechanism by which a newly discovered family of efflux pumps confers antimicrobial resistance in Gram-negative bacteria. 
+      - Studied the effect of mutations of porins that alter the permeability of antibiotic molecules.
 
 * **Nov 2013 - Apr 2014: Visiting PhD student**
   * Faculty of Pharmacy, Alma Mater Studiorum -Università de Bologna (Italy)
