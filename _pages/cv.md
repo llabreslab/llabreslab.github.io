@@ -19,6 +19,10 @@ Education
 Research and Work experience
 ------- 
 
+* **Sep 2020 - present :** Juan de la Cierva Researcher
+  * Faculty of Pharmacy and Food Science, Universitat de Barcelona (Spain)
+  * **Supervisor:** Profs Francisco Javier Luque 
+
 * **Mar 2019 - Jul 2020:** Applications developer in Data Science
   * EPCC, University of Edinburgh (UK)
   * Part of the EPCC working team of BioExcel-2 project:
