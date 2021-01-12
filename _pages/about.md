@@ -21,13 +21,13 @@ I obtained my PhD on Biotechnology at the University of Barcelona in 2015, which
 
 My work and research
 ======
-...
+My research interests focus on the molecular modelling of challenging systems, such as large globular protein complexes and large membrane proteins, with societal implications. I aim to understand the interactions and motions that enable the functions of such biological systems, as well as the causes that lead to pathologies when these systems are altered.
 
 Here I list some of my current research interests:
 
 Active transport across membranes
 -------
-The active transport of biomolecules through biological membranes require specialised membrane proteins able to translocate substrates selectively and in most cases agaisnt gradient. Mutations on these proteins are often related to pathological phentoypes. 
+The active transport of biomolecules through biological membranes require specialised membrane proteins able to translocate substrates selectively and in most cases against concentration gradient. Mutations on these proteins are often related to pathological phentoypes. 
 
 Antimicrobial Resistance (AMR)
 -------
