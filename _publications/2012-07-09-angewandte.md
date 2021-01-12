@@ -9,7 +9,7 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201202927'
 citation: 'Preciado S., Vicente-García E., Llabrés S., Luque FJ. and Lavilla R. (2012) Angewandte Chemie International Edition. 51, 6874–6877.'
 ---
 
-# Exploration of Forbidden Povarov Processes as a Source of Unexpected Reactivity: A Multicomponent Mannich–Ritter Transformation
+
 
 **Abstract:**
 
