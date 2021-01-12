@@ -21,16 +21,16 @@ My work and research
 -------
 My research interests focus on the molecular modelling of challenging systems with societal implications. I aim to understand the interactions and motions that enable the functions of such biological systems, as well as the causes that lead to pathologies when these systems are altered. Here I list some of my current research interests:
 
-Active transport across membranes
-........
+**Active transport across membranes**
+
 The active transport of biomolecules through biological membranes require specialised membrane proteins able to translocate substrates selectively and in most cases against concentration gradient. Mutations on these proteins are often related to pathological phentoypes. 
 
-Antimicrobial Resistance (AMR)
-........
+**Antimicrobial Resistance**
+
 The current rise in antimicrobial resistance urges the development of new antibiotic drugs. Gram-negative constitute the vast majority of priority pathogens exhibiting multi- or pan-drug resistance. 
 
-Protein Tandem repeats
-........
+**Protein Tandem repeats**
+
 Protein repeats account for over the 10% of the human proteome. Each repeat has a defined length and fold and the cell uses it for  diverse purposes such as a structural role (collagen) or nuclear transport (importins). 
 
 
