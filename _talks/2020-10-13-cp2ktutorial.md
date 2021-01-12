@@ -3,7 +3,7 @@ title: "Bioexcel-2 Tutorial: Practical introduction to QM/MM using CP2K for biom
 collection: talks
 type: "Tutorial"
 permalink: /talks/2020-10-13-cp2ktutorial
-venue: "Online"
+venue: "BioExcel-2"
 date: 2020-10-13
 location: "Online"
 ---
