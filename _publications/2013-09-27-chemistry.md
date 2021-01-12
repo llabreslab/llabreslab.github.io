@@ -9,7 +9,6 @@ paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem
 citation: 'Llabrés S., Vicente-García E., Preciado S., Guiu C., Pouplana R., Lavilla R. and Luque FJ. (2013). Chemistry: European Journal. 2013, 40, 13555-13361'
 ---
 
-# Evolution of a Multicomponent System: Computational and Mechanistic Studies on the Chemo‐and Stereoselectivity of a Divergent Process
 
 **Abstract:**
 
