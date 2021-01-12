@@ -6,7 +6,7 @@ excerpt: 'The use of geometrically or electronically restricted imines for Povar
 date: 2012-07-09
 venue: 'Angewandte Chemie International Edition'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201202927'
-citation: 'Preciado S., Vicente-García E., Llabrés S., Luque FJ. and Lavilla R. ; *Angewandte Chemie International Edition.* 2012, 51, 6874–6877.'
+citation: 'Preciado S., Vicente-García E., Llabrés S., Luque FJ. and Lavilla R. ; Angewandte Chemie International Edition. 2012, 51, 6874–6877.'
 ---
 
 # Exploration of Forbidden Povarov Processes as a Source of Unexpected Reactivity: A Multicomponent Mannich–Ritter Transformation
@@ -17,4 +17,4 @@ The use of geometrically or electronically restricted imines for Povarov‐type 
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201202927)
 
-**Recommended citation:** Preciado S., Vicente-García E., Llabrés S., Luque FJ. and Lavilla R. ; Angewandte Chemie International Edition. 2012, 51, 6874–6877.
+**Recommended citation:** Preciado S., Vicente-García E., Llabrés S., Luque FJ. and Lavilla R.; Angewandte Chemie International Edition. 2012, 51, 6874–6877.
