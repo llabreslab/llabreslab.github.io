@@ -3,7 +3,7 @@ title: "Bioexcel-2 Tutorial: Preparing to run biomolecular QM/MM simulations wit
 collection: talks
 type: "Tutorial"
 permalink: /talks/2020-06-09-cp2ktutorial
-venue: "Online"
+venue: "BioExcel-2"
 date: 2020-06-09
 location: "Online"
 ---
