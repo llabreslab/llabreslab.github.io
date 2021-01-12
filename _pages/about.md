@@ -10,7 +10,13 @@ redirect_from:
 
 I'm a Juan de la Cierva Researcher at the Department of Nutrition, Food sciences and Gastronomy of the University of Barcelona.
 
-I'm a computational chemist with 9 years of experience working on the study of biomolecular systems and computer aided drug design projects. My expertise focuses on the use of molecular modelling methods to model challenging biological systems including large membrane proteins and the use of molecular dynamics simulations and enhanced sampling techniques to characterise protein dynamics and to obtain energy profiles of biological processes. I thrive working as part of multidisciplinary teams, including experimental collaborators and research software engineers, in order to reach a common goal. 
+I'm a computational chemist working on the study of biomolecular systems and computer aided drug design projects. My expertise focuses on the use of molecular modelling methods to model challenging biological systems including large membrane proteins and the use of molecular dynamics simulations and enhanced sampling techniques to characterise protein dynamics and to obtain energy profiles of biological processes.
+
+
+Short Bio
+======
+
+I obtained my PhD on Biotechnology at the University of Barcelona in 2015, which focused on the development of novel anti-Influenza inhibitors via mechanistic studies and drug design approaches. After my PhD, I moved to the group of Dr Ulrich Zachariae at the University of Dundee as a postdoctoral research assistant to investigate the mechanisms of resistance of Gram-negative bacteria. In 2018, I joined the group of Dr. Julien Michel at the University of Edinburgh to study the conformational fluctuations and energetic landscapes of intrinsic disordered regions of proteins. In 2019, she started working at the EPCC at the University of Edinburgh as an Applications developer in Data Science, where she was actively involved in the BioExcel-2 project. In September of 2020, I joined the Computational Biology and Drug Design group (CBDD) as a Juan de la Cierva researcher. 
 
 
 My work and research
