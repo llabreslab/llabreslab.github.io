@@ -6,7 +6,7 @@ excerpt: 'The α4β2 nicotinic acetylcholine receptor (nAChR) is a molecular tar
 date: 2014-06-23
 venue: 'European Journal of Medicinal Chemistry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0223523414003651'
-citation: 'Llabrés S., García-Ratés S., Cristóbal-Lecina E., Riera A., Borrell JI., Camarasa J., Pubill D., Luque FJ., Escubedo E. (2014). Chemistry: European Journal. 2013, 40, 13555-13361.'
+citation: 'Llabrés S., García-Ratés S., Cristóbal-Lecina E., Riera A., Borrell JI., Camarasa J., Pubill D., Luque FJ., Escubedo E. (2014) Chemistry: European Journal. 2013, 40, 13555-13361'
 ---
 
 # Molecular basis of the selective binding of MDMA enantiomers to the alpha4beta2 nicotinic receptor subtype: Synthesis, pharmacological evaluation and mechanistic studies
