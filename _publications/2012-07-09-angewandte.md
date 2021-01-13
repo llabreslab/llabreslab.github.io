@@ -2,7 +2,7 @@
 title: "Exploration of Forbidden Povarov Processes as a Source of Unexpected Reactivity: A Multicomponent Mannich–Ritter Transformation"
 collection: publications
 permalink: /publication/2012-07-09-angewandte
-excerpt: 'The use of geometrically or electronically restricted imines for Povarov‐type processes does not afford the anti‐Bredt tetrahydroquinolines, but leads instead to highly functionalized structures through novel reaction pathways (see picture; LA=Lewis acid). The exploration of “forbidden” routes constitutes a valuable approach in the search for new multicomponent reactions.'
+excerpt: 'The exploration of “forbidden” routes constitutes a valuable approach in the search for new multicomponent reactions.'
 date: 2012-07-09
 venue: 'Angewandte Chemie International Edition'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201202927'
