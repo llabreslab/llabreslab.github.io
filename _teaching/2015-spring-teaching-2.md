@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Laboratory Teaching - Practical Laboratory Introduction - Pharmacy"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course - Pharmacy Degree"
+permalink: /teaching/2014-IT
+venue: "Universitat de Barcelona, Department of Physical Chemistry, Faculty of Pharmacy"
+date: 2014-03-07
+location: "Barcelona, Spain"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
