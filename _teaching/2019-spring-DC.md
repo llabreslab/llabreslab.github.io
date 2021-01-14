@@ -1,5 +1,5 @@
 ---
-title: "Assistant - Data Carpentry - Genomics"
+title: "Helper - Data Carpentry - Genomics"
 collection: workshop
 type: "Carpentry"
 permalink: /teaching/2019-spring-DC
