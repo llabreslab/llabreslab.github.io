@@ -25,32 +25,21 @@ Education
 Research and Work experience
 ------- 
 
-* Jun 2011 - Jul 2015: 
-  * **MSc and PhD**
+* **MSc and PhD** (Jun 2011 - Jul 2015)
   * Faculty of Pharmacy, Universitat de Barcelona (Spain)
-  * **Supervisor:** Profs Francisco Javier Luque and Ramon Pouplana
-
-* Nov 2013 - Apr 2014: 
-  * **Visiting PhD student**
+  * **Supervisors:** Profs Francisco Javier Luque and Ramon Pouplana
+* **Visiting PhD student** (Nov 2013 - Apr 2014)
   * Faculty of Pharmacy, Alma Mater Studiorum -Università de Bologna (Italy)
   * **Supervisor:** Prof Andrea Cavalli
-
-* Jan 2016 - Dec 2017: 
-  * **PostDoctoral Research Assistant**
+* **PostDoctoral Research Assistant** (Jan 2016 - Dec 2017) 
   * School of Life Sciences, University of Dundee (UK)
   * **Supervisor:** Dr Ulrich Zachariae
-
-* Jan 2018 - Dec 2018: 
-  * **PostDoctoral Research Assistant**
+* **PostDoctoral Research Assistant** (Jan 2018 - Dec 2018)
   * School of Chemistry, University of Edinburgh (UK)
   * **Supervisor:** Dr Julien Michel 
-
-* Mar 2019 - Jul 2020: 
-  * **Applications developer in Data Science**
+* **Applications developer in Data Science** (Mar 2019 - Jul 2020)
   * EPCC, University of Edinburgh (UK)
-
-* Sep 2020 - present : 
-  * **Juan de la Cierva Researcher**
+* **Juan de la Cierva Researcher** (Sep 2020 - present)
   * Faculty of Pharmacy and Food Science, Universitat de Barcelona (Spain)
   
 
