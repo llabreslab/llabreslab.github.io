@@ -26,21 +26,21 @@ Research and Work experience
 ------- 
 
 * **MSc and PhD** (Jun 2011 - Jul 2015)
-  * Faculty of Pharmacy, Universitat de Barcelona (Spain)
+  * [Computational Biology and Drug Design Group](http://www.ub.edu/cbdd/), Faculty of Pharmacy, Universitat de Barcelona (Spain)
   * **Supervisors:** Profs Francisco Javier Luque and Ramon Pouplana
 * **Visiting PhD student** (Nov 2013 - Apr 2014)
-  * Faculty of Pharmacy, Alma Mater Studiorum -Università de Bologna (Italy)
-  * **Supervisor:** Prof Andrea Cavalli
+  * [Computational and Chemical Biology lab](https://www.iit.it/research/lines/computational-and-chemical-biology), Faculty of Pharmacy, Alma Mater Studiorum - Università de Bologna (Italy)
+  * **Supervisor:** Prof Andrea Cavalli 
 * **PostDoctoral Research Assistant** (Jan 2016 - Dec 2017) 
-  * School of Life Sciences, University of Dundee (UK)
-  * **Supervisor:** Dr Ulrich Zachariae
+  * [Ulrich Zacariae's Group](https://www.lifesci.dundee.ac.uk/groups/ulrich_zachariae/index.html), School of Life Sciences, University of Dundee (UK)
+  * **Supervisor:** Dr Ulrich Zachariae 
 * **PostDoctoral Research Assistant** (Jan 2018 - Dec 2018)
-  * School of Chemistry, University of Edinburgh (UK)
+  * [MichelResearch Group](https://www.julienmichel.net/lab/), School of Chemistry, University of Edinburgh (UK)
   * **Supervisor:** Dr Julien Michel 
 * **Applications developer in Data Science** (Mar 2019 - Jul 2020)
-  * EPCC, University of Edinburgh (UK)
+  * [EPCC](http://www.epcc.ed.ac.uk), School of Engineering, University of Edinburgh (UK)
 * **Juan de la Cierva Researcher** (Sep 2020 - present)
-  * Faculty of Pharmacy and Food Science, Universitat de Barcelona (Spain)
+  * [Computational Biology Chemistry and Gastronomy](http://www.ub.edu/cbcg/index.php), Faculty of Pharmacy and Food Science, Universitat de Barcelona (Spain)
   
 
 Publications
