@@ -11,10 +11,16 @@ redirect_from:
 
 Education
 -------
-* **PhD in Biotechnology**, Universitat de Barcelona (Spain), 2015 
-* **M.Sc. in Biotechnology**, Universitat de Barcelona (Spain), 2010-2011
-* **Degree (B.Sc. + M.Sc.) in Pharmacy**, Universitat de Barcelona (Spain), 2005-2010
 
+* **Degree (B.Sc. + M.Sc.) in Pharmacy**, Universitat de Barcelona (Spain) - 2005-2010
+* **M.Sc. in Biotechnology**, Universitat de Barcelona (Spain) - 2010-2011
+  * **Date:** July 211
+  * **Doctoral thesis:** Theoretical studies on the binding of amphetaminic derivatives to the alpha4beta2 nicotinic receptor. 
+  * **Advisors:** F. Javier Luque 
+* **PhD in Biotechnology**, Universitat de Barcelona (Spain) - 2015
+  * **Date:** July 2015
+  * **Doctoral thesis:** Computational Exploration of bioactive compounds: Reactivity and ligand-target interactions. 
+  * **Advisors:** F. Javier Luque and Ramon Pouplana
 
 Research and Work experience
 ------- 
