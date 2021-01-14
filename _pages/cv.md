@@ -27,13 +27,13 @@ Research and Work experience
   * [Computational Biology and Drug Design Group](http://www.ub.edu/cbdd/), Faculty of Pharmacy, Universitat de Barcelona (Spain)
   * **Supervisors:** Profs Francisco Javier Luque and Ramon Pouplana
 * **Visiting PhD student** (Nov 2013 - Apr 2014)
-  * [Computational and Chemical Biology lab](https://www.iit.it/research/lines/computational-and-chemical-biology), Faculty of Pharmacy, Alma Mater Studiorum - Università de Bologna (Italy)
+  * [Computational & Chemical Biology Lab](https://www.iit.it/research/lines/computational-and-chemical-biology), Faculty of Pharmacy, Alma Mater Studiorum - Università de Bologna (Italy)
   * **Supervisor:** Prof Andrea Cavalli 
 * **PostDoctoral Research Assistant** (Jan 2016 - Dec 2017) 
   * [Ulrich Zacariae's Group](https://www.lifesci.dundee.ac.uk/groups/ulrich_zachariae/index.html), School of Life Sciences, University of Dundee (UK)
   * **Supervisor:** Dr Ulrich Zachariae 
 * **PostDoctoral Research Assistant** (Jan 2018 - Dec 2018)
-  * [MichelResearch Group](https://www.julienmichel.net/lab/), School of Chemistry, University of Edinburgh (UK)
+  * [Michel Research Group](https://www.julienmichel.net/lab/), School of Chemistry, University of Edinburgh (UK)
   * **Supervisor:** Dr Julien Michel 
 * **Applications developer in Data Science** (Mar 2019 - Jul 2020)
   * [EPCC](http://www.epcc.ed.ac.uk), School of Engineering, University of Edinburgh (UK)
