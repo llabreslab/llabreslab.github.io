@@ -1,5 +1,5 @@
 ---
-title: "eMD-VR: "
+title: "eMD-VR, a tool for interactive MD simulations"
 excerpt: "Graphical abstract for eMD-VR tool publication<br/><img src='/files/VR.idea5.png'>"
 collection: portfolio
 ---
