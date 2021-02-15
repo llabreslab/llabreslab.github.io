@@ -1,7 +1,7 @@
 ---
 title: 'Best Practice Guide for Biomolecular QM/MM simulations with CP2K'
-date: 2021-06-15
-permalink: /posts/2021/06/BPGqmmmcp2k/
+date: 2021-12-15
+permalink: /posts/2021/12/BPGqmmmcp2k/
 tags:
   - qmmm
   - CP2K
