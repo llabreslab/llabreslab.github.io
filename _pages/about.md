@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Juan de la Cierva Researcher at the Department of Nutrition, Food sciences and Gastronomy of the University of Barcelona. My work focuses on the study of biomolecular systems and computer aided drug design projects. I am an experienced researcher on the use of molecular modelling methods to model challenging biological systems and the use of enhanced sampling techniques to characterise protein dynamics and to obtain energy profiles of biological processes.
+I'm a Juan de la Cierva Researcher at the Department of Nutrition, Food sciences and Gastronomy of the University of Barcelona. I am an experienced researcher on the use of molecular modelling methods to study challenging biological systems. My research interests are the study of protein dynamics using molecular dynamics simulations and employing Computer Aided Drug Design techniques to develop new bioactive molecules.
 
 
 Short Bio
 -------
 
-I obtained my PhD on Biotechnology at the University of Barcelona in 2015, which focused on the development of novel anti-Influenza inhibitors via mechanistic studies and drug design approaches. After my PhD, I moved to the group of [Prof Ulrich Zachariae
-](https://www.lifesci.dundee.ac.uk/groups/ulrich_zachariae/index.html) at the University of Dundee as a postdoctoral research assistant to investigate the mechanisms of resistance of Gram-negative bacteria. In 2018, I joined the group of [Dr. Julien Michel](https://www.julienmichel.net/lab/) at the University of Edinburgh to study the conformational fluctuations and energetic landscapes of intrinsic disordered regions of proteins. In 2019, I started working at the [EPCC](https://www.epcc.ed.ac.uk) at the University of Edinburgh as an Applications developer in Data Science, where I was actively involved in the BioExcel-2 project. In September of 2020, I joined the Computational Biology and Chemistry and Biology group ([CBCG](http://www.ub.edu/cbcg/index.php)) as a Juan de la Cierva researcher. 
+I graduated in Pharmacy from the Univeristy of Barcelona in 2010 and subsequently joined the Department of Physical-Chemistry of the Faculty of Pharmacy (University of Barcelona) to pursue my Master’s degree (2011) and my PhD in Biotechnology (2015) under the supervision of professors Ramon Pouplana and Prof F. Javier Luque. My thesis work focused in understanding mechanism of action of anti-Influenza compounds. Soon after obtaining my PhD, I joined the group of [Prof Ulrich Zachariae
+](https://www.lifesci.dundee.ac.uk/groups/ulrich_zachariae/index.html) at the University of Dundee as a postdoctoral research assistant to model the molecular mechanisms driving antibiotic resistance in Gram-negative bacteria (2016-2017). Afterwards, I moved to the University of Edinburgh to work with the group of [Dr. Julien Michel](https://www.julienmichel.net/lab/) using computational approaches to characterize the conformational changes and energetic landscapes of intrinsic disordered regions in proteins (2018). Between 2019 and 2020, I was an application developer on the European-wide project [BioExcel-2](https://bioexcel.eu) (devoted to provide applications, tools, support, and networking opportunities to Life Science researchers) as part of the working team assembled by the Edinburg Parallel Computing Centre ([EPCC](https://www.epcc.ed.ac.uk)) at the University of Edinburgh. 
+
+In September of 2020, I returned to the University of Barcelona as a Juan de la Cierva – Incorporación researcher at the Computational Biology and Drug Design group. 
 
 
 My work and research
