@@ -2,7 +2,7 @@
 title: "Molecular basis of the selective binding of MDMA enantiomers to the alpha4beta2 nicotinic receptor subtype: Synthesis, pharmacological evaluation and mechanistic studies"
 collection: publications
 permalink: /publication/2014-06-23-eurjmedchem
-excerpt: 'The alpha4beta2 nicotinic acetylcholine receptor (nAChR) is a molecular target of MDMA. Two MDMA enantiomers exhibit different pharmacological profiles  via the interaction of the MDMA enantiomers with this nAChR subtype.'
+excerpt: 'The alpha4beta2 nicotinic acetylcholine receptor (nAChR) is a molecular target of MDMA. Since, the two MDMA enantiomers exhibit different pharmacological profiles, we have provided  the molecular basis for the distinct psychostimulant profiles of the MDMA enantiomers mediated by the alpha4beta2 nAChR subtype.'
 date: 2014-06-23
 venue: 'European Journal of Medicinal Chemistry'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0223523414003651'
