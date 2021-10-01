@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Juan de la Cierva Researcher at the Department of Nutrition, Food sciences and Gastronomy of the University of Barcelona. I am an experienced researcher on the use of molecular modelling methods to study challenging biological systems. My research interests are the study of protein dynamics using molecular dynamics simulations and employing Computer Aided Drug Design techniques to develop new bioactive molecules.
+I am an experienced researcher on the use of molecular modelling methods to study challenging biological systems. My research interests are the study of protein dynamics using molecular dynamics simulations and employing Computer Aided Drug Design techniques to develop new bioactive molecules.
 
 
 Short Bio
