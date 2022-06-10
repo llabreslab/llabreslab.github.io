@@ -1,7 +1,7 @@
 ---
 title: 'Our work on the molecular basis of the selective binding of MDM2 inhibitors is out in Chemical Science.'
 date: 2199-01-01
-permalink: /posts/2022/04/mdm2/
+permalink: /posts/2022/04/ChemSci-mdm2/
 tags:
   - drug design
   - IDR
