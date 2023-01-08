@@ -28,6 +28,8 @@ My research interests focus on the molecular modelling of challenging systems wi
 
 The active transport of biomolecules through biological membranes require specialised membrane proteins able to translocate substrates selectively and in most cases against concentration gradient. Mutations on these proteins are often related to pathological phentoypes. 
 
+img src='/images/cholesteroltransport.png'
+
 **Antimicrobial Resistance**
 
 The current rise in antimicrobial resistance urges the development of new antibiotic drugs. Gram-negative constitute the vast majority of priority pathogens exhibiting multi- or pan-drug resistance. 
