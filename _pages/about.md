@@ -28,7 +28,7 @@ My research interests focus on the molecular modelling of challenging systems wi
 
 The active transport of biomolecules through biological membranes require specialised membrane proteins able to translocate substrates selectively and in most cases against concentration gradient. Mutations on these proteins are often related to pathological phentoypes. 
 
-img src='/images/cholesteroltransport.png'
+Cholesterol transport<br/><img src='/images/VR.watermark.png'>
 
 **Antimicrobial Resistance**
 
