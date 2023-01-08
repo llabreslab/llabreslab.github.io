@@ -34,8 +34,4 @@ The active transport of biomolecules through biological membranes require specia
 
 The current rise in antimicrobial resistance urges the development of new antibiotic drugs. Gram-negative constitute the vast majority of priority pathogens exhibiting multi- or pan-drug resistance. 
 
-**Protein Tandem repeats**
-
-Protein repeats account for over the 10% of the human proteome. Each repeat has a defined length and fold and the cell uses it for  diverse purposes such as a structural role (collagen) or nuclear transport (importins). 
-
-
+<br/><img src='/images/amr.png'>
