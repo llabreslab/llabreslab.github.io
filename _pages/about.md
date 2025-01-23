@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The Membrane Protein Modelling group led by Dr. Salomé Llabrés is dedicated to the development and the application of methods to study complex membrane proteins of biomedical interest. Our group especialises in the use of computational chemistry, drug design, biophysics, and molecular biology. Our primary interest lies in understanding the protein dynamics that enable the functions of large membrane protein complexes systems, as well as the causes that lead to pathologies when these systems are altered. 
+The **Membrane Protein Modelling** group led by Dr. Salomé Llabrés is dedicated to the development and the application of methods to study complex membrane proteins of biomedical interest. Our group especialises in the use of computational chemistry, drug design, biophysics, and molecular biology. Our primary interest lies in understanding the protein dynamics that enable the functions of large membrane protein complexes systems, as well as the causes that lead to pathologies when these systems are altered. 
 
 **Active transport across membranes**
 
