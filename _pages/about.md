@@ -13,7 +13,7 @@ The **Membrane Protein Modelling** group led by Dr. Salomé Llabrés is dedicate
 ### Research interests
 -----------------
 
-**Genetic metabolic diseases that impair cholesterol absorption**
+**Genetic metabolic diseases impairing cholesterol absorption**
 
 Cholesterol homeostasis is vital for proper cellular and systemic functions. Disturbed cholesterol balance underlies not only cardiovascular disease but also an increasing number of other diseases such as neurodegenerative diseases and cancers. We focus on the study of NPC1 and NPC1L1 importers that play crucial roles in cholesterol homoestasis and when mutated give rise to importar metabolic syndromes like Niemann-Pick Disease. 
 
